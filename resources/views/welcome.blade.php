@@ -23,7 +23,6 @@
         <x-alert :name="$name" :email="$email" />
         <h1>Hey every  one how are today</h1>
         <p>God  help those who help them selfs</p>
-        <h1>Welcome {{  $namdsdsdasdase }} </h1>  
 
     </body>
 </html>
